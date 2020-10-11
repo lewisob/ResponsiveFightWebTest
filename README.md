@@ -1,6 +1,6 @@
 # BDD Selenium project for Covid-19 game
 
-I have used Serenity BDD for this framework.
+I have used [Serenity BDD](https://serenity-bdd.github.io/theserenitybook/latest/index.html) for this framework.
 It reduces the time and cost involved in building a framework as it comes bundled with Selenium and Cucumber.
 
 Beautiful test reports are also produced as part of the library.
